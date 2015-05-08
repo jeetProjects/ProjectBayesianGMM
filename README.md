@@ -1,0 +1,2 @@
+# ProjectBayesianGMM
+Bayesian-GMM
