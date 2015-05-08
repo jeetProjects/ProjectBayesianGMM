@@ -13,3 +13,5 @@ Generated GMM-model for all the species separartely
 Used this models as prior to train Bayesian models
 
 Testing using learned models is also performed
+
+Refer Example for code
